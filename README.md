@@ -1,5 +1,3 @@
-Server part
-
 
 1. Install packages for project
 
@@ -12,6 +10,4 @@ $ pip install -r requirements.txt
 2. For run use
 
 $ python main.py
-
-Running on http://127.0.0.1:5000/
 
