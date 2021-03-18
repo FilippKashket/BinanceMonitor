@@ -9,7 +9,7 @@ _base_ulr = 'https://www.binance.com'
 _url = 'https://www.binance.com/en/support/announcement/c-48';
 # symbols_filter =
 
-_api_key_binance = 'AwfrbxZoBzwqp8JEvqhYYHQFggRtaIC0wgLig4psUw2zk39BqzRuuEZp89kU1Bnc'
+_api_key_binance = ''
 _api_base_endpoint = 'https://api.binance.com'
 
 class MyHTMLParser(HTMLParser):
